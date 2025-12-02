@@ -64,3 +64,32 @@ Backend : fonctionnel, identifiants et e-mails fictifs opérationnels, rôles et
 Frontend : textes principaux et logos modifiés, rendu visuel correct, contenu secondaire modifiable via admin/dev.
 
 Tests globaux : toutes les fonctionnalités principales testées et validées, aucun bug restant.
+
+
+Bonjour,
+Je te fournis un fichier Excel contenant l’arborescence complète de mon projet.
+À partir de cette arborescence, je veux que tu me dises exactement quels fichiers et dossiers doivent être modifiés, surtout pour le backend, et quoi modifier dans chaque fichier.
+
+Rappel des points importants :
+
+Backend :
+
+Textes principaux à remplacer par “CVC”
+
+Identifiants simples pour les utilisateurs (ex. m.vicq)
+
+E-mails fictifs générés pour Supabase
+
+Gestion des rôles et permissions
+
+Frontend :
+
+Logos
+
+Textes principaux
+
+CSS si nécessaire
+
+Le reste sera modifiable via admin/dev
+
+Après cette analyse, nous refaisons tout le projet correctement, étape par étape : backend d’abord, puis frontend, en testant après chaque modification.
